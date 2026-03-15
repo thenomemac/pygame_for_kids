@@ -12,5 +12,5 @@ Test: `uv run python -c 'import pygame; print(pygame.get_sdl_version())'`
 
 - Install vscode and Git for Windows
 - Use the Git Bash Terminal and ensure `python --version` is >= 3.13
-- Test installing pygame globally first `python -m pip install --user pygame`
+- Test installing pygame and uv globally first `python -m pip install --user pygame uv`
 - When running the commands for each game project ensure you're in the directory, ex: `cd rain_dodge` before running `python -m uv run main.py`
