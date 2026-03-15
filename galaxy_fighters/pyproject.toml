@@ -1,7 +1,7 @@
 [project]
 name = "galaxy-fighters"
 version = "0.1.0"
-description = "Add your description here"
+description = "See: README.md"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [ "pygame" ]
