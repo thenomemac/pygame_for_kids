@@ -3,5 +3,5 @@ name = "galaxy-fighters"
 version = "0.1.0"
 description = "See: README.md"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.13"
 dependencies = [ "pygame" ]
